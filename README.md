@@ -1,4 +1,4 @@
-# TopologialManifoldVisualization
+# TopologicalManifoldVisualization
 
 ## Manifolds
 In topology, a Manifold is a real n-dimensional space that is homeomorphic to the Euclidean space E<sup>n</sup>. This means that one can move from a point in the manifold some distance away and still be in the manifold. Examples of n-dimensional manifolds are:
