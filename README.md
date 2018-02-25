@@ -39,7 +39,7 @@ This can be imagined by stretching one side of the cube to its opposite side, an
 #### P(R<sup>4</sup>)
 In both lower dimensional projective spaces we saw a wrap around effect and a change of orientation when wrapping around. We can get the same properties by rotating opposite sides of the cube 180<sup>o</sup> before connecting them and this will create the change of orientation and wrap around effect, though visualizing why this occurs in this projective space requires visualizing a graph with a 4th dimension. This is not possible but the projective space can be experienced through our simulation.
 
-## Our Simulation
+## The Simulation
 This repository includes a copy of the .blend file for the visualization. To play, make sure you are in Blender Game mode and then press "P" on your keyboard with your mouse in the 3D View window.
 
 To navigate the menu use the UP, Down, and Enter keys.
